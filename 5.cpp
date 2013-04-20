@@ -133,8 +133,8 @@ glColor3f(1.0,0.0,0.0);
 glBegin(GL_LINES);
 			glVertex2d (x0, y0);
 			glVertex2d (x1, y1);
-			glVertex2d (60,20);
-			glVertex2d (80,120);
+			//glVertex2d (60,20);
+			//glVertex2d (80,120);
 		glEnd();
 
 //draw a blue colored window
